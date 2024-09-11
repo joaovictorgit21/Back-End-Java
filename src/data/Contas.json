@@ -1,0 +1,15 @@
+{
+    "nome": "",
+    "sobrenome": "",
+    "pix": "",
+    "saldoDebito": "",
+    "saldoCredito": "",
+    "limiteCredito": "",
+    "limiteDebito": "",
+
+    "cep": "",
+    "cidade": "",
+    "numero": "",
+    "bairro": "",
+    "rua": ""
+}
